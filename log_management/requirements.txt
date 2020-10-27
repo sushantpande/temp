@@ -9,7 +9,7 @@ celery==4.2.1
 certifi==2018.11.29
 cffi==1.9.1
 chardet==3.0.4
-cryptography==2.3
+cryptography==3.2
 future==0.17.1
 futures==3.1.1
 google-auth==1.9.0
