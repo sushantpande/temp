@@ -20,7 +20,7 @@ googleapis-common-protos==1.6.0
 idna==2.8
 kombu==4.3.0
 kubernetes==10.0.1
-numpy==1.16.1
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==0.24.1
 ply==3.9
